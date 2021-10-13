@@ -21,7 +21,7 @@ let boxNum;
 
 const gameControl = () => {
 
-
+    alert("this is added using counselhero account");
 
     updateJSboard();
     drawOnBoard(boxNum, turn);
